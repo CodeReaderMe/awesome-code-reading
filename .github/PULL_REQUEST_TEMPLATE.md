@@ -14,4 +14,3 @@
 
 ### Links and resources
 
-
