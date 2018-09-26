@@ -1,5 +1,7 @@
 ### Link to the codebase
 
+### Which release/version did you read?
+
 ### Why it is a good project to read?
 
 ### Starting point
@@ -8,7 +10,7 @@
 
 ### Interesting parts
 
-### What parts can be skipped?
+### Any parts can be skipped?
 
 ### Other tips
 
