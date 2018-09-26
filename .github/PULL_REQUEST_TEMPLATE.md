@@ -12,7 +12,7 @@
 
 ### Any parts should be skipped?
 
-### Other tips
+### Any other tips?
 
 ### Links and resources
 
