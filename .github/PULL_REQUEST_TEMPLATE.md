@@ -1,10 +1,23 @@
-### Why it's a good project to read?
+Codebase link
+---
+
+Why it's a good project to read?
+---
 
 
-### How to read it?
-- Starting point
-- Interesting part
-- What to skip
-- Tips
+How to read it?
+---
+
+#### Starting point
+
+#### Reading order
+
+#### Interesting parts
+
+#### What parts can be skipped?
+
+#### Other tips
+
+#### Links and resources
 
 
