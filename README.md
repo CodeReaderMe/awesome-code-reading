@@ -11,3 +11,5 @@
   - Bitcoin [0.1.5](https://github.com/CodeReaderMe/awesome-code-reading/issues/2)
 - CSS
   - pure [1.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/4)
+- Javascript
+  - pell 1.0.4
