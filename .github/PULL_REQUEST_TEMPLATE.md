@@ -10,7 +10,7 @@
 
 ### Interesting parts
 
-### Any parts can be skipped?
+### Any parts should be skipped?
 
 ### Other tips
 
