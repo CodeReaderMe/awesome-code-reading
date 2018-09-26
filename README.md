@@ -7,4 +7,5 @@
 - Each project has a link to a Github issue for discussion and upvote. :+1: for the projects you like.
 
 ## Projects
-
+- C++
+  - [Bitcoin 0.1.5](https://github.com/bitcoin/bitcoin/tree/v0.1.5) https://github.com/CodeReaderMe/awesome-code-reading/issues/2
