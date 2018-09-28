@@ -14,4 +14,4 @@
 - Javascript
   - Pell [1.0.4](https://github.com/CodeReaderMe/awesome-code-reading/issues/6)
 - Ruby
-  - Sinatra 2.0.0
+  - Sinatra [2.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/8)
