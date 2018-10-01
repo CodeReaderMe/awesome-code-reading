@@ -13,6 +13,7 @@
   - Milligram [1.3.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/12)
   - Pure [1.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/4)
 - Go
+  - Memberlist bfc6c88
   - Tendermint [0.12.1](https://github.com/CodeReaderMe/awesome-code-reading/issues/10)
 - Javascript
   - Pell [1.0.4](https://github.com/CodeReaderMe/awesome-code-reading/issues/6)
