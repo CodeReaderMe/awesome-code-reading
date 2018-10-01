@@ -10,7 +10,7 @@
 - C++
   - Bitcoin [0.1.5](https://github.com/CodeReaderMe/awesome-code-reading/issues/2)
 - CSS
-  - Milligram 1.3.0
+  - Milligram [1.3.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/12)
   - Pure [1.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/4)
 - Go
   - Tendermint [0.12.1](https://github.com/CodeReaderMe/awesome-code-reading/issues/10)
