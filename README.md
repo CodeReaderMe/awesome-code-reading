@@ -11,6 +11,8 @@
   - Bitcoin [0.1.5](https://github.com/CodeReaderMe/awesome-code-reading/issues/2)
 - CSS
   - Pure [1.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/4)
+- Go
+  - Tendermint 0.12.1
 - Javascript
   - Pell [1.0.4](https://github.com/CodeReaderMe/awesome-code-reading/issues/6)
 - Ruby
