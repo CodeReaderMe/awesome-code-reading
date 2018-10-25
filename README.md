@@ -18,6 +18,7 @@ How does an open source project work internally? The answer is in the code<sup>T
   - Tendermint [0.12.1](https://github.com/CodeReaderMe/awesome-code-reading/issues/10)
 - Javascript
   - Pell [1.0.4](https://github.com/CodeReaderMe/awesome-code-reading/issues/6)
+  - Spectrum [2.4.50](https://github.com/CodeReaderMe/awesome-code-reading/issues/16)
 - Ruby
   - Sinatra [2.0.0](https://github.com/CodeReaderMe/awesome-code-reading/issues/8)
 
